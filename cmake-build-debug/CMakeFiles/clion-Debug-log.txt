@@ -1,0 +1,1 @@
+"D:\ruanjian\CLion 2025.2.3\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "MinGW Makefiles" -S D:\Desktop\c\计算两点间距离 -B D:\Desktop\c\计算两点间距离\cmake-build-debug
